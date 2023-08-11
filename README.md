@@ -1,5 +1,5 @@
-# ScandiPWA_GraphQl_Resolver
-This magento module provides Graphql endpoints for learning query.
+# ScandiPWA_GraphQL_Resolver
+This magento module provides GraphQL endpoints for learning query.
 
 ## Endpoint description
 This endpoint allows to perform query operations and return json data.
