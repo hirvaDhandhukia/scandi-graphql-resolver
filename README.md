@@ -4,6 +4,7 @@ This magento module provides GraphQL endpoints for learning query.
 ## Endpoint description
 This endpoint allows to perform query operations and return json data.
 
+GraphQL entry:
 ```graphql
 query {
   CustomGraphql (
@@ -18,6 +19,7 @@ query {
 }
 ```
 
+JSON output:
 ```json
 {
   "data": {
